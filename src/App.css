@@ -1,0 +1,9 @@
+#landing-container {
+  background-color: #ffcac2;
+  height:100vh;
+}
+
+#landing-carousel-container {
+  width:55%;
+  min-width: 410px;
+}
